@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><watchCatalog>
+
+    <smartwatch id="021" name="iWatch2" retailer="techLobby">
+        <watchImage>images/iwatch2.jpg</watchImage>
+        <watchName>iWatch2</watchName>
+		<watchCompany>Apple</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>299.99</watchPrice>
+		<watchColor>Gold</watchColor>
+		<watchQuantity>98</watchQuantity>
+		<watchRebate>Yes</watchRebate>
+		<watchRebateName>Get 10% off Next Purchase</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>299.99</watchOriginal>
+    </smartwatch>
+
+	<smartwatch id="022" name="Gear S2" retailer="techLobby">
+        <watchImage>images/s2gear.jpg</watchImage>
+        <watchName>Gear S2</watchName>
+		<watchCompany>Samsung</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>99.99</watchPrice>
+		<watchColor>Dark Gray</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>119.99</watchOriginal>
+    </smartwatch>
+	
+	<smartwatch id="023" name="LG Watch Sport" retailer="techLobby">
+        <watchImage>images/lgwatch1.jpg</watchImage>
+        <watchName>LG Watch Sport</watchName>
+		<watchCompany>LG</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>199.99</watchPrice>
+		<watchColor>Grey</watchColor>
+		<watchQuantity>100</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>219.99</watchOriginal>
+    </smartwatch>
+	
+	
+	
+	<smartwatch id="025" name="Moto 360" retailer="techLobby">
+        <watchImage>images/moto360.jpg</watchImage>
+        <watchName>Moto 360</watchName>
+		<watchCompany>Motorola</watchCompany>
+        <watchCondition>Refurbished</watchCondition>
+        <watchPrice>199.99</watchPrice>
+		<watchColor>Black</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>199.99</watchOriginal>
+    </smartwatch>
+	<smartwatch id="026" name="iWatch3" retailer="techLobby">
+        <watchImage>images/iwatch3.jpg</watchImage>
+        <watchName>iWatch3</watchName>
+		<watchCompany>Apple</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>399.99</watchPrice>
+		<watchColor>Black</watchColor>
+		<watchQuantity>100</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>399.99</watchOriginal>
+    </smartwatch>
+	
+	<smartwatch id="028" name="Asus ZenWatch 3" retailer="techLobby">
+        <watchImage>images/asus1.jpg</watchImage>
+        <watchName>Asus ZenWatch 3</watchName>
+		<watchCompany>Asus</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>159.99</watchPrice>
+		<watchColor>Copper</watchColor>
+		<watchQuantity>98</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>159.99</watchOriginal>
+    </smartwatch>
+	<smartwatch id="029" name="Asus ZenWatch 2" retailer="techLobby">
+        <watchImage>images/asus2.jpg</watchImage>
+        <watchName>Asus ZenWatch 2</watchName>
+		<watchCompany>Asus</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>139.99</watchPrice>
+		<watchColor>Sea Green</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>149.99</watchOriginal>
+    </smartwatch>
+	
+</watchCatalog>

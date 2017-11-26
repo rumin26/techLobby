@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><speakerCatalog>
+
+    <speaker id="031" name="Wirless Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/sony1.jpg</speakerImage>
+        <speakerName>Wirless Bluetooth Speaker</speakerName>
+		<speakerCompany>Sony</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>99</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 10$ off Next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>149.99</speakerOriginal>
+    </speaker>
+
+	<speaker id="032" name="Radian360 Wifi/Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/samspeaker1.jpg</speakerImage>
+        <speakerName>Radian360 Wifi/Bluetooth Speaker</speakerName>
+		<speakerCompany>Samsung</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>159.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="033" name="LG FH2: 50W LOUDR" retailer="techLobby">
+        <speakerImage>images/lgspeaker1.jpg</speakerImage>
+        <speakerName>LG FH2: 50W LOUDR</speakerName>
+		<speakerCompany>LG</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>99.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>99</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>99.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="034" name="LG NP1540 Wirless Speaker" retailer="techLobby">
+        <speakerImage>images/lgspeaker2.jpg</speakerImage>
+        <speakerName>LG NP1540 Wirless Speaker</speakerName>
+		<speakerCompany>LG</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>119.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>129.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="035" name="Google Assistnant Built-in Wirless Speaker" retailer="techLobby">
+        <speakerImage>images/sony2.jpg</speakerImage>
+        <speakerName>Google Assistnant Built-in Wirless Speaker</speakerName>
+		<speakerCompany>Sony</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>129.99</speakerPrice>
+		<speakerColor>White</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Buy 2 Get 50$ Next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>129.99</speakerOriginal>
+    </speaker>
+	<speaker id="036" name="Beats Pill" retailer="techLobby">
+        <speakerImage>images/beatsspeaker1.jpg</speakerImage>
+        <speakerName>Beats Pill</speakerName>
+		<speakerCompany>Beats</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>199.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>98</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 20% next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>199.99</speakerOriginal>
+    </speaker>
+	<speaker id="037" name="Level Box Pro" retailer="techLobby">
+        <speakerImage>images/samspeaker2.jpg</speakerImage>
+        <speakerName>Level Box Pro</speakerName>
+		<speakerCompany>Samsung</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>99.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>119.99</speakerOriginal>
+    </speaker>
+	<speaker id="038" name="Beats Beatbox" retailer="techLobby">
+        <speakerImage>images/beatsspeaker2.jpg</speakerImage>
+        <speakerName>Beats Beatbox</speakerName>
+		<speakerCompany>Beats</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>159.99</speakerPrice>
+		<speakerColor>Red</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>159.99</speakerOriginal>
+    </speaker>
+	<speaker id="039" name="JBL Charge 3" retailer="techLobby">
+        <speakerImage>images/jbl1.jpg</speakerImage>
+        <speakerName>JBL Charge 3</speakerName>
+		<speakerCompany>JBL</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>139.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 50$ techLobby Credit</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>139.99</speakerOriginal>
+    </speaker>
+	<speaker id="040" name="JBL Pulse Splashproof Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/jbl2.jpg</speakerImage>
+        <speakerName>JBL Pulse Splashproof Bluetooth Speaker</speakerName>
+		<speakerCompany>JBL</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>149.99</speakerOriginal>
+    </speaker>
+</speakerCatalog>

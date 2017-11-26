@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><LaptopCatalog>
+
+	<laptop id="011" name="Macbook Air" retailer="techLobby">
+        <laptopImage>images/macbookAir.jpg</laptopImage>
+        <laptopName>Macbook Air</laptopName>
+		<laptopCompany>Apple</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>849</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 20% off Next Purchase</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>849</laptopOriginal>
+    </laptop>
+	
+	<laptop id="012" name="Notebook 5" retailer="techLobby">
+        <laptopImage>images/notebook5.jpg</laptopImage>
+        <laptopName>Notebook 5</laptopName>
+		<laptopCompany>Samsung</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>859.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>900.99</laptopOriginal>
+    </laptop>
+	
+	<laptop id="013" name="XPS 13" retailer="techLobby">
+        <laptopImage>images/xps13.jpg</laptopImage>
+        <laptopName>XPS 13</laptopName>
+		<laptopCompany>Dell</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1799.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 100$ off Next Purchase</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1799.99</laptopOriginal>
+    </laptop>
+	
+	
+	
+	<laptop id="015" name="Envy 17t" retailer="techLobby">
+        <laptopImage>images/envy.jpg</laptopImage>
+        <laptopName>Envy 17t</laptopName>
+		<laptopCompany>HP</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1199.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>98</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1199.99</laptopOriginal>
+    </laptop>
+	<laptop id="016" name="HP Spectre 360" retailer="techLobby">
+        <laptopImage>images/hp360.jpg</laptopImage>
+        <laptopName>HP Spectre 360</laptopName>
+		<laptopCompany>HP</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1399.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>1499.99</laptopOriginal>
+    </laptop>
+	<laptop id="017" name="Notebook 9" retailer="techLobby">
+        <laptopImage>images/notebook9.jpg</laptopImage>
+        <laptopName>Notebook 9</laptopName>
+		<laptopCompany>Samsung</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1119.99</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 100$ techLobby Credit</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>1499.99</laptopOriginal>
+    </laptop>
+	<laptop id="018" name="Macbook Pro" retailer="techLobby">
+        <laptopImage>images/macbookpro.jpg</laptopImage>
+        <laptopName>Macbook Pro</laptopName>
+		<laptopCompany>Apple</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>2099.99</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>98</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>2099.99</laptopOriginal>
+    </laptop>
+	<laptop id="019" name="XPS 15" retailer="techLobby">
+        <laptopImage>images/xps15.jpg</laptopImage>
+        <laptopName>XPS 15</laptopName>
+		<laptopCompany>Dell</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1999.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>100</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1999.99</laptopOriginal>
+    </laptop>
+	<laptop id="020" name="Legion Y520" retailer="techLobby">
+        <laptopImage>images/legion.jpg</laptopImage>
+        <laptopName>Legion Y520</laptopName>
+		<laptopCompany>Lenovo</laptopCompany>
+        <laptopCondition>Refurbished</laptopCondition>
+        <laptopPrice>950.50</laptopPrice>
+		<laptopColor>Black</laptopColor>'
+		<laptopQuantity>100</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>950.50</laptopOriginal>
+    </laptop>
+
+</LaptopCatalog>

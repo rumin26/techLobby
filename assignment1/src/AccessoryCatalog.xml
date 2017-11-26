@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><accessoryCatalog>
+
+    <accessory id="061" name="Gear VR" retailer="techLobby">
+       <accessoryImage>images/gearVr.jpg</accessoryImage>
+        <accessoryName>Gear VR</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>59.99</accessoryPrice>
+		<accessoryColor>White</accessoryColor>
+		<accessoryQuantity>98</accessoryQuantity>
+		<accessoryRebate>Yes</accessoryRebate>
+		<accessoryRebateName>Buy 2 Get 1 Free</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>109.99</accessoryOriginal>
+    </accessory>
+
+	
+	<accessory id="063" name="Apple Mobile Gimbal" retailer="techLobby">
+        <accessoryImage>images/appleacc.jpg</accessoryImage>
+        <accessoryName>Apple Mobile Gimbal</accessoryName>
+		<accessoryCompany>Apple</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>99.99</accessoryPrice>
+		<accessoryColor>Grey</accessoryColor>
+		<accessoryQuantity>99</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>99.99</accessoryOriginal>
+    </accessory>
+	
+	<accessory id="064" name="iPhone7 Plus Case" retailer="techLobby">
+        <accessoryImage>images/appleacc1.jpg</accessoryImage>
+        <accessoryName>iPhone7 Plus Case</accessoryName>
+		<accessoryCompany>Apple</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>19.99</accessoryPrice>
+		<accessoryColor>Blue</accessoryColor>
+		<accessoryQuantity>99</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>19.99</accessoryOriginal>
+    </accessory>
+	
+	<accessory id="066" name="LG Armband Case" retailer="techLobby">
+        <accessoryImage>images/lgacc1.jpg</accessoryImage>
+        <accessoryName>LG Armband Case</accessoryName>
+		<accessoryCompany>LG</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>29.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>29.99</accessoryOriginal>
+    </accessory>
+	<accessory id="067" name="Motorola Car Charger" retailer="techLobby">
+        <accessoryImage>images/motoacc1.jpg</accessoryImage>
+        <accessoryName>Motorola Car Charger</accessoryName>
+		<accessoryCompany>Motorola</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>10.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>20.99</accessoryOriginal>
+    </accessory>
+	<accessory id="068" name="Motorola Smart Watch Charger" retailer="techLobby">
+        <accessoryImage>images/motoacc2.jpg</accessoryImage>
+        <accessoryName>Motorola Smart Watch Charger</accessoryName>
+		<accessoryCompany>Motorola</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>19.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>Yes</accessoryRebate>
+		<accessoryRebateName>Get 10$ techLobby Credit</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>19.99</accessoryOriginal>
+    </accessory>
+	<accessory id="069" name="Samsung Wireless Charger" retailer="techLobby">
+        <accessoryImage>images/fastCharge.jpg</accessoryImage>
+        <accessoryName>Samsung Wireless Charger</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>39.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>49.99</accessoryOriginal>
+    </accessory>
+	<accessory id="070" name="Gear 360 Tripod" retailer="techLobby">
+        <accessoryImage>images/samacc1.jpg</accessoryImage>
+        <accessoryName>Gear 360 Tripod</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>49.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>49.99</accessoryOriginal>
+    </accessory>
+</accessoryCatalog>

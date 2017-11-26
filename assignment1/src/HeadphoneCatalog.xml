@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><headphoneCatalog>
+
+    <headphone id="041" name="XB450AP EXTRA BASS Headphone" retailer="techLobby">
+        <headphoneImage>images/sonyear1.jpg</headphoneImage>
+        <headphoneName>XB450AP EXTRA BASS Headphone</headphoneName>
+		<headphoneCompany>Sony</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>149.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 10$ off Next Purchase</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>149.99</headphoneOriginal>
+    </headphone>
+
+	<headphone id="042" name="New OEM Original Samsung headphone" retailer="techLobby">
+        <headphoneImage>images/samear1.jpg</headphoneImage>
+        <headphoneName>New OEM Original Samsung headphone</headphoneName>
+		<headphoneCompany>Samsung</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>69.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>69.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="043" name="Uproar Wireless headphone" retailer="techLobby">
+        <headphoneImage>images/skull1.jpg</headphoneImage>
+        <headphoneName>Uproar Wireless headphone</headphoneName>
+		<headphoneCompany>Skull Candy</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>149.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>99</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 20$ techLobby Credit</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>149.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="044" name="INK'D 2 Earphones" retailer="techLobby">
+        <headphoneImage>images/skull2.jpg</headphoneImage>
+        <headphoneName>INK_D 2 Earphones</headphoneName>
+		<headphoneCompany>Skull Candy</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>19.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>Yes</headphoneSale>
+		<headphoneOriginal>29.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="045" name="Sony MDR-EX150 In-Ear Headphone" retailer="techLobby">
+        <headphoneImage>images/sonyear2.jpg</headphoneImage>
+        <headphoneName>Sony MDR-EX150 In-Ear Headphone</headphoneName>
+		<headphoneCompany>Sony</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>29.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>Yes</headphoneSale>
+		<headphoneOriginal>39.99</headphoneOriginal>
+    </headphone>
+	<headphone id="046" name="Beats Solo2 Luxe edition On-ear" retailer="techLobby">
+        <headphoneImage>images/beatsear1.jpg</headphoneImage>
+        <headphoneName>Beats Solo2 Luxe edition On-ear</headphoneName>
+		<headphoneCompany>Beats</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>199.99</headphonePrice>
+		<headphoneColor>Sky Blue</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 10% off Your Next Apple Product Purchase Coupon</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>199.99</headphoneOriginal>
+    </headphone>
+	<headphone id="047" name="Level On Wireless Pro Headphone" retailer="techLobby">
+        <headphoneImage>images/samear2.jpg</headphoneImage>
+        <headphoneName>Level On Wireless Pro Headphone</headphoneName>
+		<headphoneCompany>Samsung</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>99.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>99.99</headphoneOriginal>
+    </headphone>
+	<headphone id="048" name="Powerbeats 2" retailer="techLobby">
+        <headphoneImage>images/beatsear2.jpg</headphoneImage>
+        <headphoneName>Powerbeats 2</headphoneName>
+		<headphoneCompany>Beats</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>159.99</headphonePrice>
+		<headphoneColor>Sky Blue</headphoneColor>
+		<headphoneQuantity>98</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>159.99</headphoneOriginal>
+    </headphone>
+	<headphone id="049" name="Apple Earpods" retailer="techLobby">
+        <headphoneImage>images/appleear1.jpg</headphoneImage>
+        <headphoneName>Apple Earpods</headphoneName>
+		<headphoneCompany>Apple</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>59.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>59.99</headphoneOriginal>
+    </headphone>
+	<headphone id="050" name="Apple Airpods" retailer="techLobby">
+        <headphoneImage>images/appleear2.jpg</headphoneImage>
+        <headphoneName>Apple Airpods</headphoneName>
+		<headphoneCompany>Apple</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>119.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>119.99</headphoneOriginal>
+    </headphone>
+</headphoneCatalog>

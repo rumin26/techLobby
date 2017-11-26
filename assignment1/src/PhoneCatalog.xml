@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><phoneCatalog>
+
+    <phone id="001" name="iPhone7" retailer="techLobby">
+        <phoneImage>images/iPhone7.jpg</phoneImage>
+        <phoneName>iPhone7</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>799</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>799</phoneOriginal>
+    </phone>
+
+	
+	
+	
+	
+	<phone id="004" name="LG V30" retailer="techLobby">
+        <phoneImage>images/lgv30.jpg</phoneImage>
+        <phoneName>LG V30</phoneName>
+		<phoneCompany>LG</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>549</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>Yes</phoneRebate>
+		<phoneRebateName>Get 10% off Next Purchase</phoneRebateName>
+		<phoneSale>Yes</phoneSale>
+		<phoneOriginal>649.99</phoneOriginal>
+    </phone>
+	
+	
+	<phone id="006" name="iPhone7 Plus" retailer="techLobby">
+        <phoneImage>images/iphone7plus.jpg</phoneImage>
+        <phoneName>iPhone7 Plus</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>899</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>95</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>899</phoneOriginal>
+    </phone>
+	<phone id="007" name="Galaxy Note 8" retailer="techLobby">
+        <phoneImage>images/note8.jpg</phoneImage>
+        <phoneName>Galaxy Note 8</phoneName>
+		<phoneCompany>Samsung</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>930</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>95</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>930</phoneOriginal>
+    </phone>
+	<phone id="008" name="Galaxy S8" retailer="techLobby">
+        <phoneImage>images/galaxyS8.jpg</phoneImage>
+        <phoneName>Galaxy S8</phoneName>
+		<phoneCompany>Samsung</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>599</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>100</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>Yes</phoneSale>
+		<phoneOriginal>799.99</phoneOriginal>
+    </phone>
+	<phone id="009" name="HTC 10" retailer="techLobby">
+        <phoneImage>images/htc10.jpg</phoneImage>
+        <phoneName>HTC 10</phoneName>
+		<phoneCompany>HTC</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>559</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>Yes</phoneRebate>
+		<phoneRebateName>Get 20% off Next Purchase</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>559</phoneOriginal>
+    </phone>
+	<phone id="010" name="iPhone X" retailer="techLobby">
+        <phoneImage>images/iphoneX.jpg</phoneImage>
+        <phoneName>iPhone X</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>999.0</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>100</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>999.0</phoneOriginal>
+    </phone>
+<phone id="43681" retailer="techLobby"><phoneImage>images/iphone7.jpg</phoneImage><phoneName>Galaxy Note 9</phoneName><phoneCompany>Samsung</phoneCompany><phoneCondition>Refurbished</phoneCondition><phonePrice>999.99</phonePrice><phoneColor>Black</phoneColor><phoneQuantity>100</phoneQuantity><phoneRebate>No</phoneRebate><phoneSale>Yes</phoneSale><phoneOriginal>999.99</phoneOriginal></phone></phoneCatalog>

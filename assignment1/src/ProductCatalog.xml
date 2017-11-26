@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ProductCatalog>
+    <accessory id="061" name="Gear VR" retailer="techLobby">
+       <accessoryImage>images/gearVr.jpg</accessoryImage>
+        <accessoryName>Gear VR</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>59.99</accessoryPrice>
+		<accessoryColor>White</accessoryColor>
+		<accessoryQuantity>98</accessoryQuantity>
+		<accessoryRebate>Yes</accessoryRebate>
+		<accessoryRebateName>Buy 2 Get 1 Free</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>109.99</accessoryOriginal>
+    </accessory>
+
+	
+	<accessory id="063" name="Apple Mobile Gimbal" retailer="techLobby">
+        <accessoryImage>images/appleacc.jpg</accessoryImage>
+        <accessoryName>Apple Mobile Gimbal</accessoryName>
+		<accessoryCompany>Apple</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>99.99</accessoryPrice>
+		<accessoryColor>Grey</accessoryColor>
+		<accessoryQuantity>99</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>99.99</accessoryOriginal>
+    </accessory>
+	
+	<accessory id="064" name="iPhone7 Plus Case" retailer="techLobby">
+        <accessoryImage>images/appleacc1.jpg</accessoryImage>
+        <accessoryName>iPhone7 Plus Case</accessoryName>
+		<accessoryCompany>Apple</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>19.99</accessoryPrice>
+		<accessoryColor>Blue</accessoryColor>
+		<accessoryQuantity>99</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>19.99</accessoryOriginal>
+    </accessory>
+	
+	<accessory id="066" name="LG Armband Case" retailer="techLobby">
+        <accessoryImage>images/lgacc1.jpg</accessoryImage>
+        <accessoryName>LG Armband Case</accessoryName>
+		<accessoryCompany>LG</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>29.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>29.99</accessoryOriginal>
+    </accessory>
+	<accessory id="067" name="Motorola Car Charger" retailer="techLobby">
+        <accessoryImage>images/motoacc1.jpg</accessoryImage>
+        <accessoryName>Motorola Car Charger</accessoryName>
+		<accessoryCompany>Motorola</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>10.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>20.99</accessoryOriginal>
+    </accessory>
+	<accessory id="068" name="Motorola Smart Watch Charger" retailer="techLobby">
+        <accessoryImage>images/motoacc2.jpg</accessoryImage>
+        <accessoryName>Motorola Smart Watch Charger</accessoryName>
+		<accessoryCompany>Motorola</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>19.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>Yes</accessoryRebate>
+		<accessoryRebateName>Get 10$ techLobby Credit</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>19.99</accessoryOriginal>
+    </accessory>
+	<accessory id="069" name="Samsung Wireless Charger" retailer="techLobby">
+        <accessoryImage>images/fastCharge.jpg</accessoryImage>
+        <accessoryName>Samsung Wireless Charger</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>39.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>Yes</accessorySale>
+		<accessoryOriginal>49.99</accessoryOriginal>
+    </accessory>
+	<accessory id="070" name="Gear 360 Tripod" retailer="techLobby">
+        <accessoryImage>images/samacc1.jpg</accessoryImage>
+        <accessoryName>Gear 360 Tripod</accessoryName>
+		<accessoryCompany>Samsung</accessoryCompany>
+        <accessoryCondition>New</accessoryCondition>
+        <accessoryPrice>49.99</accessoryPrice>
+		<accessoryColor>Black</accessoryColor>
+		<accessoryQuantity>100</accessoryQuantity>
+		<accessoryRebate>No</accessoryRebate>
+		<accessoryRebateName>None</accessoryRebateName>
+		<accessorySale>No</accessorySale>
+		<accessoryOriginal>49.99</accessoryOriginal>
+    </accessory>
+	
+	<externalstorage id="051" name="SanDisk CZ60 32GB" retailer="techLobby">
+        <externalstorageImage>images/flash1.jpg</externalstorageImage>
+        <externalstorageName>SanDisk CZ60 32GB</externalstorageName>
+		<externalstorageCompany>SanDisk</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>9.99</externalstoragePrice>
+		<externalstorageColor>Black</externalstorageColor>
+		<externalstorageQuantity>99</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>Yes</externalstorageSale>
+		<externalstorageOriginal>12.99</externalstorageOriginal>
+    </externalstorage>
+
+	<externalstorage id="052" name="SanDisk Cruzer Glide CZ60 128GB" retailer="techLobby">
+        <externalstorageImage>images/flash2.jpg</externalstorageImage>
+        <externalstorageName>SanDisk Cruzer Glide CZ60 128GB</externalstorageName>
+		<externalstorageCompany>SanDisk</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>29.99</externalstoragePrice>
+		<externalstorageColor>Black</externalstorageColor>
+		<externalstorageQuantity>100</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>No</externalstorageSale>
+		<externalstorageOriginal>29.99</externalstorageOriginal>
+    </externalstorage>
+	
+	
+	<externalstorage id="054" name="USB 3.0 Flash Drive DUO 128GB" retailer="techLobby">
+        <externalstorageImage>images/flash4.jpg</externalstorageImage>
+        <externalstorageName>USB 3.0 Flash Drive DUO 128GB</externalstorageName>
+		<externalstorageCompany>Samsung</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>28.99</externalstoragePrice>
+		<externalstorageColor>Silver</externalstorageColor>
+		<externalstorageQuantity>100</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>No</externalstorageSale>
+		<externalstorageOriginal>28.99</externalstorageOriginal>
+    </externalstorage>
+	
+	<externalstorage id="055" name="SanDisk 64GB Ultra UHS-I microSDXC Memory SD" retailer="techLobby">
+        <externalstorageImage>images/mem1.jpg</externalstorageImage>
+        <externalstorageName>SanDisk 64GB Ultra UHS-I microSDXC Memory SD</externalstorageName>
+		<externalstorageCompany>SanDisk</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>19.99</externalstoragePrice>
+		<externalstorageColor>Black</externalstorageColor>
+		<externalstorageQuantity>100</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>No</externalstorageSale>
+		<externalstorageOriginal>19.99</externalstorageOriginal>
+    </externalstorage>
+	<externalstorage id="056" name="SDXC card 64 GB Transcend Ultimate Class 10" retailer="techLobby">
+        <externalstorageImage>images/mem2.jpg</externalstorageImage>
+        <externalstorageName>SDXC card 64 GB Transcend Ultimate Class 10</externalstorageName>
+		<externalstorageCompany>Transcend</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>19.99</externalstoragePrice>
+		<externalstorageColor>Red</externalstorageColor>
+		<externalstorageQuantity>99</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>Yes</externalstorageSale>
+		<externalstorageOriginal>29.99</externalstorageOriginal>
+    </externalstorage>
+	<externalstorage id="057" name="32GB Prime microSD Memory Card" retailer="techLobby">
+        <externalstorageImage>images/mem3.jpg</externalstorageImage>
+        <externalstorageName>32GB Prime microSD Memory Card</externalstorageName>
+		<externalstorageCompany>PNY</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>8.99</externalstoragePrice>
+		<externalstorageColor>Grey</externalstorageColor>
+		<externalstorageQuantity>99</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>Yes</externalstorageSale>
+		<externalstorageOriginal>19.99</externalstorageOriginal>
+    </externalstorage>
+	
+	<externalstorage id="059" name="2.5 external hard drive 2 TB Western Digital Elements Black USB 3.0" retailer="techLobby">
+        <externalstorageImage>images/hd2.jpg</externalstorageImage>
+        <externalstorageName>2.5 external hard drive 2 TB Western Digital Elements Black USB 3.0</externalstorageName>
+		<externalstorageCompany>Western Digital</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>159.99</externalstoragePrice>
+		<externalstorageColor>Black</externalstorageColor>
+		<externalstorageQuantity>100</externalstorageQuantity>
+		<externalstorageRebate>Yes</externalstorageRebate>
+		<externalstorageRebateName>Get 10% off Next Purchase</externalstorageRebateName>
+		<externalstorageSale>No</externalstorageSale>
+		<externalstorageOriginal>159.99</externalstorageOriginal>
+    </externalstorage>
+	<externalstorage id="060" name="SEAGATE Backup Plus Portable Hard Drive - 1 TB" retailer="techLobby">
+        <externalstorageImage>images/hd3.jpg</externalstorageImage>
+        <externalstorageName>SEAGATE Backup Plus Portable Hard Drive - 1 TB</externalstorageName>
+		<externalstorageCompany>SEAGATE</externalstorageCompany>
+        <externalstorageCondition>New</externalstorageCondition>
+        <externalstoragePrice>119.99</externalstoragePrice>
+		<externalstorageColor>Black</externalstorageColor>
+		<externalstorageQuantity>100</externalstorageQuantity>
+		<externalstorageRebate>No</externalstorageRebate>
+		<externalstorageRebateName>None</externalstorageRebateName>
+		<externalstorageSale>Yes</externalstorageSale>
+		<externalstorageOriginal>149.99</externalstorageOriginal>
+    </externalstorage>
+	
+	<headphone id="041" name="XB450AP EXTRA BASS Headphone" retailer="techLobby">
+        <headphoneImage>images/sonyear1.jpg</headphoneImage>
+        <headphoneName>XB450AP EXTRA BASS Headphone</headphoneName>
+		<headphoneCompany>Sony</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>149.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 10$ off Next Purchase</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>149.99</headphoneOriginal>
+    </headphone>
+
+	<headphone id="042" name="New OEM Original Samsung headphone" retailer="techLobby">
+        <headphoneImage>images/samear1.jpg</headphoneImage>
+        <headphoneName>New OEM Original Samsung headphone</headphoneName>
+		<headphoneCompany>Samsung</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>69.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>69.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="043" name="Uproar Wireless headphone" retailer="techLobby">
+        <headphoneImage>images/skull1.jpg</headphoneImage>
+        <headphoneName>Uproar Wireless headphone</headphoneName>
+		<headphoneCompany>Skull Candy</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>149.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>99</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 20$ techLobby Credit</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>149.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="044" name="INK'D 2 Earphones" retailer="techLobby">
+        <headphoneImage>images/skull2.jpg</headphoneImage>
+        <headphoneName>INK_D 2 Earphones</headphoneName>
+		<headphoneCompany>Skull Candy</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>19.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>Yes</headphoneSale>
+		<headphoneOriginal>29.99</headphoneOriginal>
+    </headphone>
+	
+	<headphone id="045" name="Sony MDR-EX150 In-Ear Headphone" retailer="techLobby">
+        <headphoneImage>images/sonyear2.jpg</headphoneImage>
+        <headphoneName>Sony MDR-EX150 In-Ear Headphone</headphoneName>
+		<headphoneCompany>Sony</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>29.99</headphonePrice>
+		<headphoneColor>Black</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>Yes</headphoneSale>
+		<headphoneOriginal>39.99</headphoneOriginal>
+    </headphone>
+	<headphone id="046" name="Beats Solo2 Luxe edition On-ear" retailer="techLobby">
+        <headphoneImage>images/beatsear1.jpg</headphoneImage>
+        <headphoneName>Beats Solo2 Luxe edition On-ear</headphoneName>
+		<headphoneCompany>Beats</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>199.99</headphonePrice>
+		<headphoneColor>Sky Blue</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>Yes</headphoneRebate>
+		<headphoneRebateName>Get 10% off Your Next Apple Product Purchase Coupon</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>199.99</headphoneOriginal>
+    </headphone>
+	<headphone id="047" name="Level On Wireless Pro Headphone" retailer="techLobby">
+        <headphoneImage>images/samear2.jpg</headphoneImage>
+        <headphoneName>Level On Wireless Pro Headphone</headphoneName>
+		<headphoneCompany>Samsung</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>99.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>99.99</headphoneOriginal>
+    </headphone>
+	<headphone id="048" name="Powerbeats 2" retailer="techLobby">
+        <headphoneImage>images/beatsear2.jpg</headphoneImage>
+        <headphoneName>Powerbeats 2</headphoneName>
+		<headphoneCompany>Beats</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>159.99</headphonePrice>
+		<headphoneColor>Sky Blue</headphoneColor>
+		<headphoneQuantity>98</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>159.99</headphoneOriginal>
+    </headphone>
+	<headphone id="049" name="Apple Earpods" retailer="techLobby">
+        <headphoneImage>images/appleear1.jpg</headphoneImage>
+        <headphoneName>Apple Earpods</headphoneName>
+		<headphoneCompany>Apple</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>59.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>59.99</headphoneOriginal>
+    </headphone>
+	<headphone id="050" name="Apple Airpods" retailer="techLobby">
+        <headphoneImage>images/appleear2.jpg</headphoneImage>
+        <headphoneName>Apple Airpods</headphoneName>
+		<headphoneCompany>Apple</headphoneCompany>
+        <headphoneCondition>New</headphoneCondition>
+        <headphonePrice>119.99</headphonePrice>
+		<headphoneColor>White</headphoneColor>
+		<headphoneQuantity>100</headphoneQuantity>
+		<headphoneRebate>No</headphoneRebate>
+		<headphoneRebateName>None</headphoneRebateName>
+		<headphoneSale>No</headphoneSale>
+		<headphoneOriginal>119.99</headphoneOriginal>
+    </headphone>
+	
+	<laptop id="011" name="Macbook Air" retailer="techLobby">
+        <laptopImage>images/macbookAir.jpg</laptopImage>
+        <laptopName>Macbook Air</laptopName>
+		<laptopCompany>Apple</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>849</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 20% off Next Purchase</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>849</laptopOriginal>
+    </laptop>
+	
+	<laptop id="012" name="Notebook 5" retailer="techLobby">
+        <laptopImage>images/notebook5.jpg</laptopImage>
+        <laptopName>Notebook 5</laptopName>
+		<laptopCompany>Samsung</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>859.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>900.99</laptopOriginal>
+    </laptop>
+	
+	<laptop id="013" name="XPS 13" retailer="techLobby">
+        <laptopImage>images/xps13.jpg</laptopImage>
+        <laptopName>XPS 13</laptopName>
+		<laptopCompany>Dell</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1799.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 100$ off Next Purchase</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1799.99</laptopOriginal>
+    </laptop>
+	
+	
+	
+	<laptop id="015" name="Envy 17t" retailer="techLobby">
+        <laptopImage>images/envy.jpg</laptopImage>
+        <laptopName>Envy 17t</laptopName>
+		<laptopCompany>HP</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1199.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>98</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1199.99</laptopOriginal>
+    </laptop>
+	<laptop id="016" name="HP Spectre 360" retailer="techLobby">
+        <laptopImage>images/hp360.jpg</laptopImage>
+        <laptopName>HP Spectre 360</laptopName>
+		<laptopCompany>HP</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1399.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>1499.99</laptopOriginal>
+    </laptop>
+	<laptop id="017" name="Notebook 9" retailer="techLobby">
+        <laptopImage>images/notebook9.jpg</laptopImage>
+        <laptopName>Notebook 9</laptopName>
+		<laptopCompany>Samsung</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1119.99</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>99</laptopQuantity>
+		<laptopRebate>Yes</laptopRebate>
+		<laptopRebateName>Get 100$ techLobby Credit</laptopRebateName>
+		<laptopSale>Yes</laptopSale>
+		<laptopOriginal>1499.99</laptopOriginal>
+    </laptop>
+	<laptop id="018" name="Macbook Pro" retailer="techLobby">
+        <laptopImage>images/macbookpro.jpg</laptopImage>
+        <laptopName>Macbook Pro</laptopName>
+		<laptopCompany>Apple</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>2099.99</laptopPrice>
+		<laptopColor>Silver</laptopColor>
+		<laptopQuantity>98</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>2099.99</laptopOriginal>
+    </laptop>
+	<laptop id="019" name="XPS 15" retailer="techLobby">
+        <laptopImage>images/xps15.jpg</laptopImage>
+        <laptopName>XPS 15</laptopName>
+		<laptopCompany>Dell</laptopCompany>
+        <laptopCondition>New</laptopCondition>
+        <laptopPrice>1999.99</laptopPrice>
+		<laptopColor>Black</laptopColor>
+		<laptopQuantity>100</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>1999.99</laptopOriginal>
+    </laptop>
+	<laptop id="020" name="Legion Y520" retailer="techLobby">
+        <laptopImage>images/legion.jpg</laptopImage>
+        <laptopName>Legion Y520</laptopName>
+		<laptopCompany>Lenovo</laptopCompany>
+        <laptopCondition>Refurbished</laptopCondition>
+        <laptopPrice>950.50</laptopPrice>
+		<laptopColor>Black</laptopColor>'
+		<laptopQuantity>100</laptopQuantity>
+		<laptopRebate>No</laptopRebate>
+		<laptopRebateName>None</laptopRebateName>
+		<laptopSale>No</laptopSale>
+		<laptopOriginal>950.50</laptopOriginal>
+    </laptop>
+	
+	 <phone id="001" name="iPhone7" retailer="techLobby">
+        <phoneImage>images/iPhone7.jpg</phoneImage>
+        <phoneName>iPhone7</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>799</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>799</phoneOriginal>
+    </phone>
+
+	
+	
+	
+	
+	<phone id="004" name="LG V30" retailer="techLobby">
+        <phoneImage>images/lgv30.jpg</phoneImage>
+        <phoneName>LG V30</phoneName>
+		<phoneCompany>LG</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>549</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>Yes</phoneRebate>
+		<phoneRebateName>Get 10% off Next Purchase</phoneRebateName>
+		<phoneSale>Yes</phoneSale>
+		<phoneOriginal>649.99</phoneOriginal>
+    </phone>
+	
+	<phone id="005" name="Moto E4 Plus" retailer="techLobby">
+        <phoneImage>images/motoe4.jpg</phoneImage>
+        <phoneName>Moto E4 Plus</phoneName>
+		<phoneCompany>Motorola</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>199</phonePrice>
+		<phoneColor>Grey</phoneColor>
+		<phoneQuantity>98</phoneQuantity>
+		<phoneRebate>Yes</phoneRebate>
+		<phoneRebateName>Get 100$ techLobby Credit</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>199</phoneOriginal>
+    </phone>
+	<phone id="006" name="iPhone7 Plus" retailer="techLobby">
+        <phoneImage>images/iphone7plus.jpg</phoneImage>
+        <phoneName>iPhone7 Plus</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>899</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>95</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>899</phoneOriginal>
+    </phone>
+	<phone id="007" name="Galaxy Note 8" retailer="techLobby">
+        <phoneImage>images/note8.jpg</phoneImage>
+        <phoneName>Galaxy Note 8</phoneName>
+		<phoneCompany>Samsung</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>930</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>95</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>930</phoneOriginal>
+    </phone>
+	<phone id="008" name="Galaxy S8" retailer="techLobby">
+        <phoneImage>images/galaxyS8.jpg</phoneImage>
+        <phoneName>Galaxy S8</phoneName>
+		<phoneCompany>Samsung</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>599</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>100</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>Yes</phoneSale>
+		<phoneOriginal>799.99</phoneOriginal>
+    </phone>
+	<phone id="009" name="HTC 10" retailer="techLobby">
+        <phoneImage>images/htc10.jpg</phoneImage>
+        <phoneName>HTC 10</phoneName>
+		<phoneCompany>HTC</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>559</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>99</phoneQuantity>
+		<phoneRebate>Yes</phoneRebate>
+		<phoneRebateName>Get 20% off Next Purchase</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>559</phoneOriginal>
+    </phone>
+	<phone id="010" name="iPhone X" retailer="techLobby">
+        <phoneImage>images/iphoneX.jpg</phoneImage>
+        <phoneName>iPhone X</phoneName>
+		<phoneCompany>Apple</phoneCompany>
+        <phoneCondition>New</phoneCondition>
+        <phonePrice>999.0</phonePrice>
+		<phoneColor>Black</phoneColor>
+		<phoneQuantity>100</phoneQuantity>
+		<phoneRebate>No</phoneRebate>
+		<phoneRebateName>None</phoneRebateName>
+		<phoneSale>No</phoneSale>
+		<phoneOriginal>999.0</phoneOriginal>
+    </phone>
+	
+	<smartwatch id="021" name="iWatch2" retailer="techLobby">
+        <watchImage>images/iwatch2.jpg</watchImage>
+        <watchName>iWatch2</watchName>
+		<watchCompany>Apple</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>299.99</watchPrice>
+		<watchColor>Gold</watchColor>
+		<watchQuantity>98</watchQuantity>
+		<watchRebate>Yes</watchRebate>
+		<watchRebateName>Get 10% off Next Purchase</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>299.99</watchOriginal>
+    </smartwatch>
+
+	<smartwatch id="022" name="Gear S2" retailer="techLobby">
+        <watchImage>images/s2gear.jpg</watchImage>
+        <watchName>Gear S2</watchName>
+		<watchCompany>Samsung</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>99.99</watchPrice>
+		<watchColor>Dark Gray</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>119.99</watchOriginal>
+    </smartwatch>
+	
+	<smartwatch id="023" name="LG Watch Sport" retailer="techLobby">
+        <watchImage>images/lgwatch1.jpg</watchImage>
+        <watchName>LG Watch Sport</watchName>
+		<watchCompany>LG</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>199.99</watchPrice>
+		<watchColor>Grey</watchColor>
+		<watchQuantity>100</watchQuantity>
+		<watchRebate>Get 10$ techLobby Credit</watchRebate>
+		<watchRebateName/>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>219.99</watchOriginal>
+    </smartwatch>
+	
+	
+	
+	<smartwatch id="025" name="Moto 360" retailer="techLobby">
+        <watchImage>images/moto360.jpg</watchImage>
+        <watchName>Moto 360</watchName>
+		<watchCompany>Motorola</watchCompany>
+        <watchCondition>Refurbished</watchCondition>
+        <watchPrice>199.99</watchPrice>
+		<watchColor>Black</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>199.99</watchOriginal>
+    </smartwatch>
+	<smartwatch id="026" name="iWatch3" retailer="techLobby">
+        <watchImage>images/iwatch3.jpg</watchImage>
+        <watchName>iWatch3</watchName>
+		<watchCompany>Apple</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>399.99</watchPrice>
+		<watchColor>Black</watchColor>
+		<watchQuantity>100</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>399.99</watchOriginal>
+    </smartwatch>
+	
+	<smartwatch id="028" name="Asus ZenWatch 3" retailer="techLobby">
+        <watchImage>images/asus1.jpg</watchImage>
+        <watchName>Asus ZenWatch 3</watchName>
+		<watchCompany>Asus</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>159.99</watchPrice>
+		<watchColor>Copper</watchColor>
+		<watchQuantity>98</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>No</watchSale>
+		<watchOriginal>159.99</watchOriginal>
+    </smartwatch>
+	<smartwatch id="029" name="Asus ZenWatch 2" retailer="techLobby">
+        <watchImage>images/asus2.jpg</watchImage>
+        <watchName>Asus ZenWatch 2</watchName>
+		<watchCompany>Asus</watchCompany>
+        <watchCondition>New</watchCondition>
+        <watchPrice>139.99</watchPrice>
+		<watchColor>Sea Green</watchColor>
+		<watchQuantity>99</watchQuantity>
+		<watchRebate>No</watchRebate>
+		<watchRebateName>None</watchRebateName>
+		<watchSale>Yes</watchSale>
+		<watchOriginal>149.99</watchOriginal>
+    </smartwatch>
+	
+	
+	<speaker id="031" name="Wirless Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/sony1.jpg</speakerImage>
+        <speakerName>Wirless Bluetooth Speaker</speakerName>
+		<speakerCompany>Sony</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>99</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 10$ off Next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>149.99</speakerOriginal>
+    </speaker>
+
+	<speaker id="032" name="Radian360 Wifi/Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/samspeaker1.jpg</speakerImage>
+        <speakerName>Radian360 Wifi/Bluetooth Speaker</speakerName>
+		<speakerCompany>Samsung</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>159.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="033" name="LG FH2: 50W LOUDR" retailer="techLobby">
+        <speakerImage>images/lgspeaker1.jpg</speakerImage>
+        <speakerName>LG FH2: 50W LOUDR</speakerName>
+		<speakerCompany>LG</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>99.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>99</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>99.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="034" name="LG NP1540 Wirless Speaker" retailer="techLobby">
+        <speakerImage>images/lgspeaker2.jpg</speakerImage>
+        <speakerName>LG NP1540 Wirless Speaker</speakerName>
+		<speakerCompany>LG</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>119.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>129.99</speakerOriginal>
+    </speaker>
+	
+	<speaker id="035" name="Google Assistnant Built-in Wirless Speaker" retailer="techLobby">
+        <speakerImage>images/sony2.jpg</speakerImage>
+        <speakerName>Google Assistnant Built-in Wirless Speaker</speakerName>
+		<speakerCompany>Sony</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>129.99</speakerPrice>
+		<speakerColor>White</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Buy 2 Get 50$ Next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>129.99</speakerOriginal>
+    </speaker>
+	<speaker id="036" name="Beats Pill" retailer="techLobby">
+        <speakerImage>images/beatsspeaker1.jpg</speakerImage>
+        <speakerName>Beats Pill</speakerName>
+		<speakerCompany>Beats</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>199.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>98</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 20% next Purchase</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>199.99</speakerOriginal>
+    </speaker>
+	<speaker id="037" name="Level Box Pro" retailer="techLobby">
+        <speakerImage>images/samspeaker2.jpg</speakerImage>
+        <speakerName>Level Box Pro</speakerName>
+		<speakerCompany>Samsung</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>99.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>Yes</speakerSale>
+		<speakerOriginal>119.99</speakerOriginal>
+    </speaker>
+	<speaker id="038" name="Beats Beatbox" retailer="techLobby">
+        <speakerImage>images/beatsspeaker2.jpg</speakerImage>
+        <speakerName>Beats Beatbox</speakerName>
+		<speakerCompany>Beats</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>159.99</speakerPrice>
+		<speakerColor>Red</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>159.99</speakerOriginal>
+    </speaker>
+	<speaker id="039" name="JBL Charge 3" retailer="techLobby">
+        <speakerImage>images/jbl1.jpg</speakerImage>
+        <speakerName>JBL Charge 3</speakerName>
+		<speakerCompany>JBL</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>139.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>Yes</speakerRebate>
+		<speakerRebateName>Get 50$ techLobby Credit</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>139.99</speakerOriginal>
+    </speaker>
+	<speaker id="040" name="JBL Pulse Splashproof Bluetooth Speaker" retailer="techLobby">
+        <speakerImage>images/jbl2.jpg</speakerImage>
+        <speakerName>JBL Pulse Splashproof Bluetooth Speaker</speakerName>
+		<speakerCompany>JBL</speakerCompany>
+        <speakerCondition>New</speakerCondition>
+        <speakerPrice>149.99</speakerPrice>
+		<speakerColor>Black</speakerColor>
+		<speakerQuantity>100</speakerQuantity>
+		<speakerRebate>No</speakerRebate>
+		<speakerRebateName>None</speakerRebateName>
+		<speakerSale>No</speakerSale>
+		<speakerOriginal>149.99</speakerOriginal>
+    </speaker>
+</ProductCatalog>
